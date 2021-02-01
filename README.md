@@ -1,7 +1,7 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Add your name <br>
-**Date:** XX/XX/XXXX   <br>
+**Name of the student:** ROSINSKI Anais
+**Date:** 22/05/1997   <br>
 **Course:** Add your cursus <br>
 
 ## Purpose
